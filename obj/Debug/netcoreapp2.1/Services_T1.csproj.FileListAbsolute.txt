@@ -1,0 +1,11 @@
+C:\Users\vane\source\repos\Services_T1\Services_T1\obj\Debug\netcoreapp2.1\Services_T1.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\Services_T1\Services_T1\obj\Debug\netcoreapp2.1\Services_T1.csproj.CoreCompileInputs.cache
+C:\Users\vane\source\repos\Services_T1\Services_T1\obj\Debug\netcoreapp2.1\Services_T1.AssemblyInfoInputs.cache
+C:\Users\vane\source\repos\Services_T1\Services_T1\obj\Debug\netcoreapp2.1\Services_T1.AssemblyInfo.cs
+C:\Users\vane\source\repos\Services_T1\Services_T1\bin\Debug\netcoreapp2.1\Services_T1.deps.json
+C:\Users\vane\source\repos\Services_T1\Services_T1\bin\Debug\netcoreapp2.1\Services_T1.runtimeconfig.json
+C:\Users\vane\source\repos\Services_T1\Services_T1\bin\Debug\netcoreapp2.1\Services_T1.runtimeconfig.dev.json
+C:\Users\vane\source\repos\Services_T1\Services_T1\bin\Debug\netcoreapp2.1\Services_T1.dll
+C:\Users\vane\source\repos\Services_T1\Services_T1\bin\Debug\netcoreapp2.1\Services_T1.pdb
+C:\Users\vane\source\repos\Services_T1\Services_T1\obj\Debug\netcoreapp2.1\Services_T1.dll
+C:\Users\vane\source\repos\Services_T1\Services_T1\obj\Debug\netcoreapp2.1\Services_T1.pdb
